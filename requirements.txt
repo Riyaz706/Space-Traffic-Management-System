@@ -1,0 +1,22 @@
+# Core data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# HTTP requests and API calls
+aiohttp>=3.8.0
+
+# Orbital mechanics and astrodynamics
+sgp4>=2.21.0
+
+# Machine Learning and AI
+scikit-learn>=1.1.0
+
+# Optimization
+scipy>=1.9.0
+
+# Visualization and dashboards
+plotly>=5.10.0
+streamlit>=1.22.0
+
+# Utilities
+joblib>=1.2.0
